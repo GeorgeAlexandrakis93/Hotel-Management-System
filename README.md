@@ -39,7 +39,7 @@
 ▪ Τέλος, θα εμφανίζεται η απόδειξη της συνολικής αγοράς του χρήστη, η οποία θα εκτυπώνεται όπως το 
 παράδειγμα παρακάτω:
 
-Thanks for your purchase.
+Thanks for your purchase.<br>
 Here is the receipt of your purchase:
 ***********************************************************************************
 Payment method: CASH
