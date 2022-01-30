@@ -42,12 +42,12 @@
 Thanks for your purchase.<br>
 Here is the receipt of your purchase:
 ***********************************************************************************
-Payment method: CASH
-Total tickets bought: 4
-Fair (per ticket): 1.40 euro
-Discount: 10%
-Total Price (before discount): 5.60 euro
-Final Price (after discount): 5.04 euro
-Total euros inserted: 6.00 euro
-Total change: 0.96 euro
+Payment method: CASH<br>
+Total tickets bought: 4<br>
+Fair (per ticket): 1.40 euro<br>
+Discount: 10%<br>
+Total Price (before discount): 5.60 euro<br>
+Final Price (after discount): 5.04 euro<br>
+Total euros inserted: 6.00 euro<br>
+Total change: 0.96 euro<br>
 ***********************************************************************************
